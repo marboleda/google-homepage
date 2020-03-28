@@ -8,9 +8,15 @@
   transform: translate(-50%, -50%);
 }
 
+#center > * {
+  padding-bottom: 30px;
+}
+
 #main-logo {
   margin: 0 auto;
 }
+
+
 
 #search-bar {
   align-self: stretch;
