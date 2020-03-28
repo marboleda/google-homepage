@@ -33,8 +33,20 @@ input {
   justify-content: space-between;
 }
 
+#left-bar {
+  padding-left: 0;
+}
+
 li {
   display: inline;
+  margin: 0 10px;
+  font-size: small;
+  color: #000;
+  opacity: 0.75;
+}
+
+li:hover {
+  text-decoration: underline;
 }
 
 #search-buttons {
