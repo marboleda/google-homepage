@@ -22,3 +22,7 @@
 input {
   flex: 1;
 }
+
+#navbar {
+  display: flex;
+}
