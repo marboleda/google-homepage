@@ -62,3 +62,19 @@ li:hover {
 #right-button {
   margin-left: 30px;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+#other-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+#settings-button {
+  margin-right: 40px;
+}
