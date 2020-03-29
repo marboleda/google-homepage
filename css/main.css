@@ -48,6 +48,16 @@ li:hover {
   text-decoration: underline;
 }
 
+#login-button {
+  background-color: rgb(66, 133, 244);
+  color: #fff;
+  padding: 8px;
+}
+
+#login-button:hover {
+  text-decoration: none;
+}
+
 #search-buttons {
   display: flex;
   flex-direction: row;
