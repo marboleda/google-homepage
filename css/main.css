@@ -66,12 +66,19 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
+  color: rgba(0,0,0,.54);
+  background-color: rgb(242, 242, 242);
+  font-family: arial;
 }
 
 #other-footer {
   display: flex;
   flex-direction: row;
-  justify-content: space-between
+  justify-content: space-between;
+  border-top: 1px;
+  border-top-style: solid;
+  border-top-color: rgb(228,228,228);
+  z-index: 2;
 }
 
 #settings-button {
