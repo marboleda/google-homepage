@@ -18,9 +18,10 @@
 
 #search-bar {
   align-self: stretch;
-  display: flex;
   flex-direction: row;
-  width: 582px;
+  width: 550px;
+  border-style: none;
+  background-color: white;
 }
 
 input {
@@ -93,4 +94,17 @@ footer {
 
 #settings-button {
   margin-right: 40px;
+}
+
+#search-input {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+#magnifying-glass {
+  width: 30px;
+  height: 30px;
 }
