@@ -24,7 +24,6 @@
 #search-bar {
   align-self: stretch;
   flex-direction: row;
-  width: 550px;
   border-style: none;
   background-color: white;
 }
@@ -120,6 +119,7 @@ footer {
   border: 2px solid lightgrey;
   border-radius: 10px;
   padding: 5px;
+  width: 580px;
 }
 
 #search-input:hover {
