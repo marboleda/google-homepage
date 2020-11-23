@@ -122,7 +122,7 @@ footer {
   width: 580px;
 }
 
-#search-input:hover {
+#search-input:hover, #search-buttons > *:hover {
   box-shadow: 1px 1px 1px #d3d3d3, -1px -1px 1px #d3d3d3, -1px 1px 1px #d3d3d3, 1px -1px 1px #d3d3d3;
 }
 
