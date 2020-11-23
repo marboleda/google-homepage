@@ -122,6 +122,10 @@ footer {
   padding: 5px;
 }
 
+#search-input:hover {
+  box-shadow: 1px 1px 1px #d3d3d3, -1px -1px 1px #d3d3d3, -1px 1px 1px #d3d3d3, 1px -1px 1px #d3d3d3;
+}
+
 #magnifying-glass {
   width: 30px;
   height: 30px;
