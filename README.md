@@ -10,3 +10,4 @@ Demo: [Link](https://marboleda.github.io/google-homepage/)
 ## What did I learn?
 - Basic HTML and CSS
 - Making use of Flexbox in CSS
+- Making use of media queries in CSS to make elements responsive to different window sizes
