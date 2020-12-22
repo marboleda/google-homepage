@@ -10,6 +10,7 @@
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  width: 100%;
 }
 
 #center > * {
@@ -129,7 +130,9 @@ footer {
   border: 2px solid lightgrey;
   border-radius: 10px;
   padding: 5px;
-  width: 580px;
+  width: 60vw;;
+  max-width: 584px;
+  margin: 0 auto 30px auto;
 }
 
 #search-input:hover, #search-buttons > *:hover {
