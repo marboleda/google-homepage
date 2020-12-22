@@ -109,6 +109,16 @@ footer {
   z-index: 2;
 }
 
+@media (max-width: 850px) {
+  #other-footer {
+    flex-direction: column;
+  }
+
+  #other-footer > ul {
+    text-align: center;
+  }
+}
+
 #settings-button {
   margin-right: 40px;
 }
